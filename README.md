@@ -34,7 +34,7 @@
     <code><img title='Javascript' width='24px' height='24px'src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'></code>
     <code><img title='Java' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'></code>
     <code><img title='C' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'></code>
-    <code><img width="24px" height="24px" src="https://img.icons8.com/small/16/61dafb/bash.png" alt="bash"/></code>
+    <code><img title='Bash' width="24px" height="24px" src="https://img.icons8.com/small/16/61dafb/bash.png" alt="bash"/></code>
     <code><img title='Matlab' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/matlab.svg'></code>
     <code><img title='Latex' width='24px' height='24px' src='https://img.icons8.com/color/48/latex.png'></code>
 </p>
@@ -51,16 +51,13 @@
 </p>
 
 <p align='center'>
-    <code><img width="24" height="24" src="https://img.icons8.com/color/24/django.png" alt="django"/></code>
-    <code><img width="24" height="24" src="https://img.icons8.com/ios/30/flask.png" alt="flask"/></code>
-    <code><img title='Fast API' width='24px' height='24px' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxx9OWCeGnQ4TaZdMje40Jg5AoKgrCEWl9XfScJ5iYZg&s'></code>
-    <code><img title='Docker' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'></code>
-    <code><img title='Nginx' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redux.svg'></code>
-    <code><img title='Elasticsearch' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg'></code>
-    <code><img title='Apache kafka' width='24' height='24' src='https://img.icons8.com/color/48/material-ui.png'/></code>
-    <code><img title='Locust' width='24' height='24' src='https://img.icons8.com/stickers/100/json-download.png'/></code>
+    <code><img title='Django' width="24" height="24" src="https://img.icons8.com/color/24/django.png" alt="django"/></code>
+    <code><img title='Flask' width="24" height="24" src="https://img.icons8.com/ios/30/flask.png" alt="flask"/></code>
+    <code><img title='Fast API' width='24px' height='24px' src='https://worldvectorlogo.com/download/fastapi-1.svg'></code>
+    <code><img title='Nginx' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nginx.svg'></code>
+    <code><img title='Elasticsearch' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/elasticsearch.svg'></code>
+    <code><img title='Apache kafka' width='24' height='24' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/elasticsearch.svg'/></code>
 </p>
-
 
 <p align='center'>
     <code><img title='React' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'></code>
