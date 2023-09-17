@@ -56,7 +56,7 @@
     <code><img title='Fast API' width='24px' height='24px' src='https://worldvectorlogo.com/download/fastapi-1.svg'></code>
     <code><img title='Nginx' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nginx.svg'></code>
     <code><img title='Elasticsearch' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/elasticsearch.svg'></code>
-    <code><img title='Apache kafka' width='24' height='24' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/elasticsearch.svg'/></code>
+    <code><img title='Apache kafka' width='24' height='24' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kafka.svg'/></code>
 </p>
 
 <p align='center'>
