@@ -52,9 +52,8 @@
 
 <p align='center'>
     <code><img width="24" height="24" src="https://img.icons8.com/color/24/django.png" alt="django"/></code>
-    <code><img title='Django rest' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'></code>
-    <code><img title='Flask' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'></code>
-    <code><img title='Fast API' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'></code>
+    <code><img width="24" height="24" src="https://img.icons8.com/ios/30/flask.png" alt="flask"/></code>
+    <code><img title='Fast API' width='24px' height='24px' src='https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png'></code>
     <code><img title='Docker' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'></code>
     <code><img title='Nginx' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redux.svg'></code>
     <code><img title='Elasticsearch' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg'></code>
