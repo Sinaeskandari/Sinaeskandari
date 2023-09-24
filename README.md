@@ -79,3 +79,14 @@
     <code><img title='ANTLR' width='24px' width='24px' src='https://www.svgrepo.com/show/373431/antlr.svg'></code>
     <code><img title='Selenium' width='24px' width='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/selenium.svg'></code>
 </p>
+
+
+## <img width='22' height='22' src='https://img.icons8.com/external-prettycons-solid-prettycons/60/41b883/external-graph-business-and-finance-prettycons-solid-prettycons-2.png' alt='external-graph-business-and-finance-prettycons-solid-prettycons-2'/> Stats
+<p align=center>
+    <img width='400' height='150' src='https://github-readme-streak-stats-nikomadol.vercel.app?user=sinaeskandari&theme=react&hide_border=true&' />
+    <img width='400' height='150' src='https://github-readme-stats.vercel.app/api?username=sinaeskandari&theme=react&hide_border=true&show_icons=true&border_radius=10&include_all_commits=true'/>
+</p>
+
+<p align=center>
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=sinaeskandari&theme=react&layout=compact&hide_border=true&border_radius=10' />
+</p>
