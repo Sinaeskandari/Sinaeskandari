@@ -83,7 +83,7 @@
 
 ## <img width='22' height='22' src='https://img.icons8.com/external-prettycons-solid-prettycons/60/61dafb/external-graph-business-and-finance-prettycons-solid-prettycons-2.png' alt='external-graph-business-and-finance-prettycons-solid-prettycons-2'/> Stats
 <p align=center>
-    <img width='400' height='150' src='https://github-readme-streak-stats-nikomadol.vercel.app?user=sinaeskandari&theme=react&hide_border=true&' />
+    <img width='400' height='150' src='https://github-readme-streak-stats.herokuapp.com/?user=sinaeskandari&theme=react&hide_border=true' />
     <img width='400' height='150' src='https://denvercoder1-github-readme-stats.vercel.app/api?username=sinaeskandari&theme=react&hide_border=true&show_icons=true&border_radius=10&include_all_commits=true'/>
 </p>
 
