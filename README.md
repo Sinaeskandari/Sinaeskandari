@@ -13,7 +13,7 @@
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   
-  <a href='' title='LinkedIn'>
+  <a href='https://www.linkedin.com/in/sina-eskandari-8b6095191/' title='LinkedIn'>
     <img width='30' height='30' src='https://img.icons8.com/ios-filled/50/61dafb/linkedin.png' alt='linkedin'/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
