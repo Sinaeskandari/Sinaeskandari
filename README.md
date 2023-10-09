@@ -36,7 +36,6 @@
     <code><img title='C' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'></code>
     <code><img title='Bash' width="24px" height="24px" src="https://img.icons8.com/small/16/61dafb/bash.png" alt="bash"/></code>
     <code><img title='Matlab' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/matlab.svg'></code>
-    <code><img title='Latex' width='24px' height='24px' src='https://img.icons8.com/color/48/latex.png'></code>
 </p>
 
 <p align='center'>
@@ -73,6 +72,7 @@
 <p align='center'>
     <code><img title='Git' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'></code>
     <code><img title='Linux' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'></code>
+    <code><img title='Latex' width='24px' height='24px' src='https://img.icons8.com/color/48/latex.png'></code>
     <code><img title='Grafana' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/grafana.svg'></code>
     <code><img title='Prometheus' width='24' height='24' src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/prometheus/prometheus-original.svg'/></code>
     <code><img title='Kibana' width='24' height='24' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kibana.svg'/></code>
